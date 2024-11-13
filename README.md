@@ -3,7 +3,7 @@
 
 · Java, Kotlin, Swift
 
-· HTML, CSS, XML
+· HTML, CSS, XML, JavaScript,PHP
 
 · Spring, Hibernate, Maven
 
